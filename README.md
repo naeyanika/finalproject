@@ -83,8 +83,7 @@ Dataset yang digunakan adalah **Brazilian E-Commerce Public Dataset by Olist** d
 
 ### Streamlit Cloud Deployment
 
-App ini dapat diakses langsung melalui Streamlit Cloud:
- **[Live Demo](https://your-app-name.streamlit.app)**
+App ini dapat diakses langsung melalui Streamlit Cloud: https://finalproject-alpha.streamlit.app/
 
 ## Features
 
