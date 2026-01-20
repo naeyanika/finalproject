@@ -308,7 +308,7 @@ st.markdown(
     """
     <div style='text-align:center;color:#7f8c8d;margin-top:30px;padding-top:16px;border-top:1px solid #E8F0FF;'>
         <strong>Seller Performance Prediction System</strong><br/>
-        Built with XGBoost • Data: Olist E‑Commerce (2016‑2018)
+        Built with Alphateam Dede, Wendy and Grace
     </div>
     """,
     unsafe_allow_html=True,
