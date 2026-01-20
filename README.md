@@ -114,7 +114,7 @@ xgboost
 
 ##  Author
 
-**[Dede]**
+**[Dede Yudha Nersanto]**
 **[Wendy]**
 **[Grace]**
 
